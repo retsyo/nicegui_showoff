@@ -40,7 +40,7 @@ These features can be implemented only if official [NiceGUI](https://nicegui.io/
 
 
 
-# 4. project 2: tell me your free time
+# 4. project 2: tell me your free time, which is used to find out the common spare time of a group of the people
 ## 4.1 snapshot
 ### 4.1.1 logging page
 3 regions, i.e. A for logging,  B for result, C for statistics on logged users
